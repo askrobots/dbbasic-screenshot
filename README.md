@@ -14,23 +14,26 @@ A fast screenshot annotation tool for macOS. Capture screenshots (full or partia
 
 ## Installation
 
+### From PyPI (recommended)
+
 ```bash
-pip install -r requirements-qt.txt
+pip install dbbasic-screenshot
+```
+
+### From source
+
+```bash
+git clone https://github.com/askrobots/dbbasic-screenshot.git
+cd dbbasic-screenshot
+pip install -e .
 ```
 
 ## Usage
 
-Run the tool:
+After installation, just run:
 
 ```bash
-python dbbasic-screenshot.py
-```
-
-Or make it executable:
-
-```bash
-chmod +x dbbasic-screenshot.py
-./dbbasic-screenshot.py
+dbbasic-screenshot
 ```
 
 ### Workflow
