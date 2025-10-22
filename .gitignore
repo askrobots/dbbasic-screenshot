@@ -28,8 +28,9 @@ wheels/
 *.qmlc
 *.pyc
 
-# Screenshots (example files)
+# Screenshots (example files - but keep screenshot.png for README)
 screenshot_*.png
+!screenshot.png
 
 # IDE
 .vscode/

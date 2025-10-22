@@ -2,6 +2,8 @@
 
 A fast screenshot annotation tool for macOS. Capture screenshots (full or partial) and quickly annotate them with lines, arrows, rectangles, and text.
 
+![Screenshot Annotator](screenshot.png)
+
 ## Features
 
 - Capture partial screen areas (click and drag to select)
